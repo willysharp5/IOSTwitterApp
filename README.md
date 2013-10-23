@@ -9,7 +9,7 @@ User can compose a new tweet by tapping on a compose button.
 User can tap on a tweet to view it, with controls to retweet, favorite, and reply.
 User can pull to refresh
 
-![alt tag](https://raw.github.com/willysharp5/TwitterIOSApp/master/1.png)
-![alt tag](https://raw.github.com/willysharp5/TwitterIOSApp/master/2.png)
-![alt tag](https://raw.github.com/willysharp5/TwitterIOSApp/master/3.png)
-![alt tag](https://raw.github.com/willysharp5/TwitterIOSApp/master/4.png)
+![alt tag](https://raw.github.com/willysharp5/IOSTwitterApp/master/1.png)
+![alt tag](https://raw.github.com/willysharp5/IOSTwitterApp/master/2.png)
+![alt tag](https://raw.github.com/willysharp5/IOSTwitterApp/master/3.png)
+![alt tag](https://raw.github.com/willysharp5/IOSTwitterApp/master/4.png)
